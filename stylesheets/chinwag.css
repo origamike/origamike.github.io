@@ -1,0 +1,10 @@
+.p1 {
+    -ms-transform:skew(-15deg);
+    -webkit-transform:skew(-15deg);
+    transform:skew(-15deg);
+}
+.p2 {
+    -ms-transform:skew(15deg);
+    -webkit-transform:skew(15deg);
+    transform:skew(15deg);
+}
